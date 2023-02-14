@@ -25,7 +25,10 @@ console.log
 function addInCartCountChange(value) {
 
     // Задание №1.2. Увеличение количества в корзине
+    
     let oldValue = value;
+let newValue = oldValue + 1;
+console.log
 
     // создайте переменную newValue
     // присвойте ей значение oldValue
