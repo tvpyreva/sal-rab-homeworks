@@ -20,6 +20,7 @@ function calcShipping(sum, min, shipping) {
     // то shippingPrice присвоить значение 0
     // то shippingPrice присвоить значение 0
     // то shippingPrice присвоить значение 0
+    // то shippingPrice присвоить значение 0
     
     // Конец решения задания №2.1.
 
